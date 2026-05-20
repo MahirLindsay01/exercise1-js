@@ -15,9 +15,12 @@ let age = 30;
 let fullName = firstName + " " + lastName;
 
 // TODO: Print a greeting to the console using these variables
+
 console.log("My name is " + fullName + " I am " + age + " years old.");
 
 
 // TODO: Try changing the age variable to a different value
+
 age = 31;
+
 console.log("I will be " + age + " next year.");
